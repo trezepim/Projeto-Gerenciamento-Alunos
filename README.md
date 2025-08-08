@@ -1,6 +1,7 @@
 # 🎓 Sistema de Gerenciamento de Alunos
 
-Este projeto implementa um sistema simples de cadastro e gerenciamento de alunos, utilizando vetores e desenvolvido em Java.  
+Este projeto implementa um sistema simples de cadastro e gerenciamento de alunos, utilizando vetores e desenvolvido em Java.
+
 É possível cadastrar alunos, alterar suas notas, consultar suas informações e exibir todos os alunos cadastrados.
 
 ## 📚 Objetivo
