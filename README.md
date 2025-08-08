@@ -8,10 +8,6 @@ Este projeto implementa um sistema simples de cadastro e gerenciamento de alunos
 
 Aplicar os conceitos fundamentais de programação orientada a objetos, uso de vetores fixos e estrutura de menus, por meio de uma aplicação prática de gerenciamento de alunos em sala de aula.
 
-## 📖 Documentação dos métodos
-
-Esta seção descreve o funcionamento dos principais métodos, organizados por suas classes.
-
 ## 📁 Estrutura de pacotes
 ```
 
